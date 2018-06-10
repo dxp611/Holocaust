@@ -1,0 +1,75 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Holocaustul.com" resolutions="1x" timestamp="1463472176232">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="3817185647" ref="index"/>
+    <file name="iefonts_index.css" crc="39095025" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
+    <file name="museutils.js" crc="531812214" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4156477058" ref="index"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="form_check.php" crc="373582055" ref="index"/>
+    <file name="form_throttle.php" crc="211381018" ref="index"/>
+    <file name="form_process.php" crc="6354943" ref="index"/>
+    <file name="form-u3821.php" crc="314486022" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3975164813" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="main_1500-u726-fr.png" crc="3976642878" ref="index"/>
+    <file name="untitled-1.png" crc="4185262059" seo="true" ref="index"/>
+    <file name="yn7ekq_web.jpg" crc="3802044722" ref="index"/>
+    <file name="yn7ekq_web-u4563-r-fr.png" crc="305106957" ref="index"/>
+    <file name="copy_of_anti_semitic_2_xlarge-350x230.jpg" crc="167501299" ref="index"/>
+    <file name="copy_of_anti_semitic_2_xlarge-350x230-u4571-r-fr.png" crc="17066221" ref="index"/>
+    <file name="bundesarchiv_bild_183-n0827-318,_kz_auschwitz,_ankunft_ungarischer_juden.jpg" crc="4237998921" ref="index"/>
+    <file name="bundesarchiv_bild_183-n0827-318,_kz_auschwitz,_ankunft_ungarischer_juden-u4560-r-fr.png" crc="4015778195" ref="index"/>
+    <file name="nazi-hitler_2076063b.jpg" crc="5695318" ref="index"/>
+    <file name="nazi-hitler_2076063b-u4555-r-fr.png" crc="4194949225" ref="index"/>
+    <file name="33598267-word-cloud-of-holocaust-in-german-language-stock-photo.png" crc="424115281" seo="true" ref="index"/>
+    <file name="sarmulata.png" crc="152082960" seo="true" ref="index"/>
+    <file name="s.jpg" crc="436430217" ref="index"/>
+    <file name="untitled-1-recovered.png" crc="4154329282" seo="true" ref="index"/>
+    <file name="holocaust276.jpg" crc="4254113476" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="chełmno_(kulmhof)_1942_(koło).jpg" crc="19368073" seo="true" ref="index"/>
+    <file name="giuwb7_web.jpg" crc="423141152" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="capture.jpg" crc="104595327" seo="true" ref="index"/>
+    <file name="execution_of_poles_by_german_einsatzkomanndo_oktober1939.jpg" crc="4203539557" seo="true" ref="index"/>
+    <file name="screen-shot-2015-01-13-at-43236-pm.jpg" crc="3998275329" seo="true" ref="index"/>
+    <file name="berlin-memorial-22.jpg" crc="4257759002" ref="index"/>
+    <file name="700938-topic-ix-5.jpg" crc="3758177267" seo="true" ref="index"/>
+    <file name="03.jpg" crc="3836497214" seo="true" ref="index"/>
+    <file name="3945fce2-b3dc-467a-afbc-1c4488adbad3-2060x1236.jpg" crc="179409998" seo="true" ref="index"/>
+    <file name="new_elearn_slider_armed_resistance_image.jpg" crc="25877930" seo="true" ref="index"/>
+    <file name="t-numbers-081612-1425716902.jpg" crc="4247089186" seo="true" ref="index"/>
+    <file name="907014-holocaust-survivor.jpg" crc="4075230365" seo="true" ref="index"/>
+    <file name="20140527-220622-79582559-crop-u4120.jpg" crc="3829615203" ref="index"/>
+    <file name="numbers.jpg" crc="170961294" seo="true" ref="index"/>
+    <file name="sarmulata3.png" crc="4034506461" seo="true" ref="index"/>
+    <file name="holocaust-memorial-miami.jpg" crc="299872825" ref="index"/>
+    <file name="sarmulata4.png" crc="449880574" seo="true" ref="index"/>
+    <file name="hail png.png" crc="4102639376" seo="true" ref="index"/>
+    <file name="bfp_1highres.jpg" crc="58399329" seo="true" ref="index"/>
+    <file name="n11.jpg" crc="137082695" seo="true" ref="index"/>
+    <file name="auschwitz-poland-06.jpg" crc="4045548465" seo="true" ref="index"/>
+    <file name="74105a.jpg" crc="183856173" seo="true" ref="index"/>
+    <file name="russia-april-2009-179.jpg" crc="4012190980" ref="index"/>
+    <file name="logo w.png" crc="3879237318" seo="true" ref="index"/>
+    <file name="holocaust-auschwit_3177584a-large.jpg" crc="91640885" ref="index"/>
+    <file name="u3837-17.png" crc="3848420001" ref="index"/>
+    <file name="u3837-17-r.png" crc="3901831786" ref="index"/>
+    <file name="u3837-17-m.png" crc="3901831786" ref="index"/>
+    <file name="u3837-17-fs.png" crc="265819223" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3931202659" seo="true" mt="1463472073375" redirect="true"/>
+</manifest>
